@@ -11,3 +11,15 @@ this is only for testing epic coding
     </li> 
  <li> Cats </li> 
 </ul> 
+ <table> 
+  <caption>Table About My Favorites </caption>
+  <tr>
+    <th>Sport</th>
+    <th>Hobby</th>
+    <th>Color </th>
+  </tr>
+  <tr>
+    <td>volleyball</td>
+    <td> drawing</td>
+    <td>green</td>
+  </tr>
