@@ -23,3 +23,11 @@ this is only for testing epic coding
     <td> drawing</td>
     <td>green</td>
   </tr>
+<h1>Many Thanks to you for Visitng Cheese Fingers Fine Dining</h1>
+<h2>Three Star Michelin Restaurant&star;Guy Fieri Approved&star;Delicousness in Every Bite</h2>
+<p><b>Exquisite Breakfasts</b></p>
+<div style="width:400px; height:550px; color:#000080; background-image:url('simmons-bread-1.webp');background-repeat:repeat; background-size: 75px 75px;">
+   <p><ul><li>Cheesy Finger Delight</li><li>The Ocean of Gravy</li><li>Hashbrown Island</li>
+   </ul>
+</p>
+</div>
